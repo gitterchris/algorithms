@@ -1,0 +1,9 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Practice algorithm problems",
+  "main": "index.js",
+  "author": "Christopher Ababan",
+  "license": "MIT",
+  "dependencies": {}
+}
