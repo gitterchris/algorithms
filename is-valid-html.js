@@ -1,8 +1,6 @@
 /*
   Problem: write a function that accepts a stringified HTML and checks if the HTML is valid or not.
-*/
 
-/*
   Questions to ask:
   - Do we need to consider self-closing tags?
   - How about newlines and other white spaces?
