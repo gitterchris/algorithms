@@ -11,16 +11,6 @@
 
 const Q = require('./lib/queue');
 
-class Node {
-  constructor() {
-    this._children = [];
-  }
-
-  get children() {
-    return this._children;
-  }
-}
-
 function getDepth(root) {
   if (root === null || root === undefined) return 0;
   if (root.children.length === 0) return 1;
